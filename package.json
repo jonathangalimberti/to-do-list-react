@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list-react",
+  "version": "1.0.0",
+  "description": "todo list react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathangalimberti/to-do-list-react.git"
+  },
+  "author": "@jonathangalimberti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathangalimberti/to-do-list-react/issues"
+  },
+  "homepage": "https://github.com/jonathangalimberti/to-do-list-react#readme"
+}
